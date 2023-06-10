@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/entbappy/chicken-diseases-classification-MLOPS
+Author: entbappy
+Author-email: kasun.thaksala@gmail.com
+Project-URL: Bug Tracker, https://github.com/entbappy/chicken-diseases-classification-MLOPS/issues
+
+- source .venv/bin/activate
+- pip install -r requirements.txt
